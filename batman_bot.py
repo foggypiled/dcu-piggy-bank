@@ -55,4 +55,4 @@ async def on_message(message: discord.Message):
         f"You owe the LadyDevilofHell'sKitchen {total} nickels, {message.author.mention}!"
     )
 
-client.run(TOKEN)
+client.run(MTQ5MjExNjc0NzEwMzI0MDQwMw.GPArJU.yFxNYmTppkxsGRbrD0ew3rOzhmujUXgRXTh-no)
