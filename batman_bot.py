@@ -2,7 +2,7 @@ import os
 import re
 import discord
 
-TOKEN = os.environ["MTQ5MjExNjc0NzEwMzI0MDQwMw.G99PYA.KvUC6iGCO3jrYaLDu40L01_03x9K0UfjuixvaI"]
+TOKEN = os.environ["MTQ5MjExNjc0NzEwMzI0MDQwMw.G40fSI.IUK30S-uH4KbtUUrEKrcu1zds7DdBVpKoulntE"]
 
 intents = discord.Intents.default()
 intents.message_content = True
@@ -55,4 +55,4 @@ async def on_message(message: discord.Message):
         f"You owe the LadyDevilofHell'sKitchen {total} nickels, {message.author.mention}!"
     )
 
-client.run(TOKEN)
+client.run(MTQ5MjExNjc0NzEwMzI0MDQwMw.G40fSI.IUK30S-uH4KbtUUrEKrcu1zds7DdBVpKoulntE)
